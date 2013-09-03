@@ -11,12 +11,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="96"
    height="96"
-   id="svg2992"
+   id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="trash.svg">
+   sodipodi:docname="New document 1">
   <defs
-     id="defs2994" />
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,8 +24,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.1770833"
-     inkscape:cx="49.145146"
+     inkscape:zoom="5.5729167"
+     inkscape:cx="48"
      inkscape:cy="48"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -36,14 +36,14 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata2997">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,17 +52,23 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-956.36218)">
-    <rect
-       style="color:#000000;fill:#000000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3038"
-       width="59"
-       height="63.345421"
-       x="18.5"
-       y="984.12341" />
     <path
-       style="color:#000000;fill:#000000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 38.5,961.26843 0,6.82828 -30,0 0,9.30352 79,0 0,-9.30352 -30,0 0,-6.82828 -19,0 z"
-       id="rect3040"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 48,959.36218 c -24.852814,0 -45,20.14719 -45,45.00002 0,24.8528 20.147186,45 45,45 24.852814,0 45,-20.1472 45,-45 0,-24.85283 -20.147186,-45.00002 -45,-45.00002 z m 0,10 c 19.329966,0 35,15.67003 35,35.00002 0,19.3299 -15.670034,35 -35,35 -19.329966,0 -35,-15.6701 -35,-35 0,-19.32999 15.670034,-35.00002 35,-35.00002 z"
+       id="path2985" />
+    <text
+       xml:space="preserve"
+       style="font-size:80.13157654px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="19.933773"
+       y="922.20227"
+       id="text3011"
+       sodipodi:linespacing="125%"
+       transform="scale(0.89712046,1.1146775)"><tspan
+         sodipodi:role="line"
+         id="tspan3013"
+         x="19.933773"
+         y="922.20227"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">±</tspan></text>
   </g>
 </svg>
