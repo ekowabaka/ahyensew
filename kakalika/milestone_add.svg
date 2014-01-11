@@ -29,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="7.1770858"
      inkscape:cx="18.391932"
-     inkscape:cy="76.959788"
+     inkscape:cy="49.093325"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,11 +57,9 @@
      transform="translate(0,-956.36218)">
     <path
        style="color:#000000;fill:#02b01f;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 47.5625,3 C 31.42061,2.9695887 15.415705,13.868315 15.5,35.8125 15.66858,57.07431 15.5,93 15.5,93 l 64.9375,0 c 0,0 0.107811,-41.27829 0,-57.1875 C 79.969014,13.98996 63.70439,3.0304113 47.5625,3 z m 0.125,9.75 c 11.671828,0.02137 23.442498,7.726605 23.78125,23.0625 0.07795,11.17958 0,8.1875 0,8.1875 l -46.9375,0 C 24.539214,43.287646 24.551511,42.126281 24.5,35.8125 24.439051,20.391115 36.015672,12.728628 47.6875,12.75 z"
+       d="M 47.5625 3 C 31.42061 2.9695887 15.415705 13.868315 15.5 35.8125 C 15.66858 57.07431 15.5 93 15.5 93 L 80.4375 93 C 80.4375 93 80.545311 51.72171 80.4375 35.8125 C 79.969014 13.98996 63.70439 3.0304113 47.5625 3 z M 47.6875 12.75 C 59.359328 12.77137 71.129998 20.476605 71.46875 35.8125 C 71.5467 46.99208 71.46875 44 71.46875 44 L 24.53125 44 C 24.539214 43.287646 24.551511 42.126281 24.5 35.8125 C 24.439051 20.391115 36.015672 12.728628 47.6875 12.75 z M 53.84375 55.0625 L 62.625 55.0625 L 62.625 66.40625 L 73.9375 66.40625 L 73.9375 75.15625 L 62.625 75.15625 L 62.625 86.5 L 53.84375 86.5 L 53.84375 75.15625 L 42.5 75.15625 L 42.5 66.40625 L 53.84375 66.40625 L 53.84375 55.0625 z "
        transform="translate(0,956.36218)"
-       id="rect2986"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sccccssccccs" />
+       id="rect2986" />
     <g
        transform="scale(0.97621823,1.0243611)"
        style="font-size:52.71628951999999657px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#02b01f;fill-opacity:1;stroke:none;font-family:Sans"
