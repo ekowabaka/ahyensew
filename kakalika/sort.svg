@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="sort.svg"
-   inkscape:export-filename="/home/ekow/Projects/kakalika/assets/images/sort.png"
+   inkscape:export-filename="/home/ekow/Projects/simpaprint/new_editor/images/move_up.png"
    inkscape:export-xdpi="22.5"
    inkscape:export-ydpi="22.5">
   <defs
@@ -27,8 +27,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.9895833"
-     inkscape:cx="51.171386"
+     inkscape:zoom="3.4947917"
+     inkscape:cx="1.0968701"
      inkscape:cy="48"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -56,59 +56,40 @@
      id="layer1"
      transform="translate(0,-956.36218)">
     <rect
-       style="color:#000000;fill:#62b0db;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect2985"
        width="46.926975"
        height="15"
        x="47.067066"
        y="958.36218" />
     <rect
-       style="color:#000000;fill:#62b0db;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect2985-3"
        width="41.38229"
        height="15"
        x="47.067066"
        y="984.0282" />
     <rect
-       style="color:#000000;fill:#62b0db;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect2985-3-6"
        width="37.054729"
        height="15"
        x="47.067066"
        y="1009.6952" />
     <rect
-       style="color:#000000;fill:#62b0db;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect2985-3-6-0"
        width="32.186226"
        height="15"
        x="47.067066"
        y="1035.3622" />
     <path
-       sodipodi:type="star"
-       style="color:#000000;fill:#62b0db;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 14.5,984.11217 0,36.62503 -12.5,0 20,29.625 20,-29.625 -12.5,0 0,-36.62503 -15,0 z"
        id="path3079"
-       sodipodi:sides="3"
-       sodipodi:cx="18.026827"
-       sodipodi:cy="71.821159"
-       sodipodi:r1="19.743666"
-       sodipodi:r2="9.8718328"
-       sodipodi:arg1="1.5707963"
-       sodipodi:arg2="2.6179939"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="M 18.026827,91.564825 0.92831054,61.949327 35.125343,61.949326 z"
-       transform="matrix(1.1696921,0,0,1,0.91416242,958.79735)"
-       inkscape:transform-center-y="4.9359165" />
+       inkscape:connector-curvature="0" />
     <rect
-       style="color:#000000;fill:#62b0db;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3081"
-       width="15"
-       height="40.202682"
-       x="14.5"
-       y="984.12073" />
-    <rect
-       style="color:#000000;fill:#62b0db;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect2985-1"
        width="15"
        height="15"

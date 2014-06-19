@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="96"
+   height="96"
+   id="svg3057"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="pricing.svg"
+   inkscape:export-filename="/home/ekow/Projects/paanoo/assets/images/pricing.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <defs
+     id="defs3059" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.4947917"
+     inkscape:cx="22.962742"
+     inkscape:cy="50.158158"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="864"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3062">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-956.36218)">
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 48 3 C 23.147186 3 3 23.147186 3 48 C 3 72.852814 23.147186 93 48 93 C 72.852814 93 93 72.852814 93 48 C 93 23.147186 72.852814 3 48 3 z M 48 10 C 49.871001 10 51.701403 10.14505 53.5 10.40625 L 53.5 20.53125 C 59.805006 21.78476 65.338614 25.157741 69.34375 29.875 L 61.71875 36.375 C 58.417002 32.482465 53.504084 30 48 30 C 38.058874 30 30 38.058874 30 48 C 30 57.941126 38.058874 66 48 66 C 53.504084 66 58.417002 63.517535 61.71875 59.625 L 69.34375 66.125 C 65.338614 70.842259 59.805006 74.21524 53.5 75.46875 L 53.5 85.59375 C 51.701403 85.85495 49.871001 86 48 86 C 46.128999 86 44.298597 85.85495 42.5 85.59375 L 42.5 75.46875 C 29.664864 72.916972 20 61.584877 20 48 C 20 34.415123 29.664864 23.083028 42.5 20.53125 L 42.5 10.40625 C 44.298597 10.14505 46.128999 10 48 10 z "
+       transform="translate(0,956.36218)"
+       id="path3065" />
+  </g>
+</svg>
