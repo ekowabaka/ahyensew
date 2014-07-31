@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="upload.svg"
-   inkscape:export-filename="/home/ekow/Projects/paanoo/assets/images/upload.png"
-   inkscape:export-xdpi="60"
-   inkscape:export-ydpi="60">
+   inkscape:export-filename="/home/ekow/Projects/paanoo/assets/images/save.png"
+   inkscape:export-xdpi="30"
+   inkscape:export-ydpi="30">
   <defs
      id="defs4">
     <marker
@@ -81,16 +81,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4711909"
-     inkscape:cx="34.813711"
-     inkscape:cy="48"
+     inkscape:cx="-36.002348"
+     inkscape:cy="47.190674"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="707"
-     inkscape:window-x="1440"
-     inkscape:window-y="157"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1067"
+     inkscape:window-height="607"
+     inkscape:window-x="99"
+     inkscape:window-y="255"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -109,7 +109,7 @@
      id="layer1"
      transform="translate(0,-956.36218)">
     <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:0.25098041;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 46.970247,978.6582 c -9.483473,0.23928 -21.487185,12.15095 -20.430028,21.4526 -3.446884,-5.28769 -20.3368863,-1.21304 -22.6929488,13.0473 -1.7337831,10.494 2.8908378,25.6833 16.8922228,25.9893 15.495332,-0.1048 36.246472,0.1037 55.075021,0 14.187892,0.4212 18.686299,-14.9175 15.904188,-24.4771 -2.275999,-7.8205 -15.706427,-14.74949 -21.163087,-7.9479 -0.272896,-20.22976 -11.344078,-27.41842 -22.692949,-28.0642 -0.300184,-0.0171 -0.586501,-0.008 -0.892419,0 z m -3.665294,15.40364 13.290674,16.49386 -7.330587,-0.035 -0.44621,22.6133 -12.366382,0 0.446209,-22.6836 -7.330587,-0.035 13.736883,-16.35329 z"
        id="path2985"
        inkscape:connector-curvature="0" />

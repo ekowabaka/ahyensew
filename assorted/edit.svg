@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="pencil.svg">
+   sodipodi:docname="edit.svg"
+   inkscape:export-filename="/home/ekow/Projects/paanoo/assets/images/edit_small.png"
+   inkscape:export-xdpi="18.75"
+   inkscape:export-ydpi="18.75">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.1770833"
-     inkscape:cx="48"
-     inkscape:cy="48"
+     inkscape:zoom="1.7942708"
+     inkscape:cx="23.268505"
+     inkscape:cy="31.280116"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="872"
-     inkscape:window-x="1366"
-     inkscape:window-y="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="834"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -43,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,39 +55,43 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-956.36218)">
-    <rect
-       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3784"
-       width="28.646156"
-       height="65.771576"
-       x="729.97144"
-       y="645.53339"
-       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
-    <path
-       sodipodi:type="star"
-       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path3786"
-       sodipodi:sides="3"
-       sodipodi:cx="922.85712"
-       sodipodi:cy="1122.8571"
-       sodipodi:r1="188.57143"
-       sodipodi:r2="94.285728"
-       sodipodi:arg1="1.5707963"
-       sodipodi:arg2="2.6179939"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 922.85712,1311.4285 -81.65384,-141.4286 -81.65381,-141.4286 163.30765,0 163.30768,0 -81.6538,141.4286 z"
-       transform="matrix(0.0567165,0.0567165,-0.0567165,0.0567165,25.038408,922.64132)"
-       inkscape:transform-center-y="-1.9573315"
-       inkscape:transform-center-x="-1.9573359" />
-    <rect
-       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3788"
-       width="29.333664"
-       height="12.833478"
-       x="729.46564"
-       y="627.27747"
-       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
+    <g
+       id="g3047"
+       style="stroke:none;fill:#000000;fill-opacity:1">
+      <rect
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         y="645.53339"
+         x="729.97144"
+         height="65.771576"
+         width="28.646156"
+         id="rect3784"
+         style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:transform-center-x="-1.9573359"
+         inkscape:transform-center-y="-1.9573315"
+         transform="matrix(0.0567165,0.0567165,-0.0567165,0.0567165,25.038408,922.64132)"
+         d="m 922.85712,1311.4285 -81.65384,-141.4286 -81.65381,-141.4286 163.30765,0 163.30768,0 -81.6538,141.4286 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.6179939"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="94.285728"
+         sodipodi:r1="188.57143"
+         sodipodi:cy="1122.8571"
+         sodipodi:cx="922.85712"
+         sodipodi:sides="3"
+         id="path3786"
+         style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="star" />
+      <rect
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         y="627.27747"
+         x="729.46564"
+         height="12.833478"
+         width="29.333664"
+         id="rect3788"
+         style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
   </g>
 </svg>

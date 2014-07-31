@@ -14,8 +14,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="cancel.svg"
-   inkscape:export-filename="/home/ekow/Projects/paanoo/assets/images/delete.png"
+   sodipodi:docname="align_right.svg"
+   inkscape:export-filename="/home/ekow/Projects/paanoo/assets/images/align_right.png"
    inkscape:export-xdpi="15"
    inkscape:export-ydpi="15">
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5374821"
-     inkscape:cx="-61.991939"
-     inkscape:cy="49.564555"
+     inkscape:zoom="2.710576"
+     inkscape:cx="-16.561923"
+     inkscape:cy="48"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,10 +55,33 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-956.36218)">
-    <path
-       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 48 3 C 23.147186 3 3 23.147187 3 48 C 3 72.852813 23.147186 93 48 93 C 72.852814 93 93 72.852813 93 48 C 93 23.147187 72.852814 3 48 3 z M 29.96875 19.375 L 48 37.40625 L 66.03125 19.375 L 76.625 29.96875 L 58.59375 48 L 76.625 66.03125 L 66.03125 76.625 L 48 58.59375 L 29.96875 76.625 L 19.375 66.03125 L 37.40625 48 L 19.375 29.96875 L 29.96875 19.375 z "
-       transform="translate(0,956.36218)"
-       id="path2985" />
+    <rect
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3766"
+       width="74.217392"
+       height="12.857"
+       x="18.782608"
+       y="1036.5051" />
+    <rect
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3766-6"
+       width="85.173912"
+       height="12.857"
+       x="7.826087"
+       y="1010.7912" />
+    <rect
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3766-6-1"
+       width="69.130432"
+       height="12.857"
+       x="23.869566"
+       y="985.07721" />
+    <rect
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3766-6-1-9"
+       width="90"
+       height="12.857"
+       x="3"
+       y="959.36316" />
   </g>
 </svg>

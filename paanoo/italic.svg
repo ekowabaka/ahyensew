@@ -14,8 +14,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="cancel.svg"
-   inkscape:export-filename="/home/ekow/Projects/paanoo/assets/images/delete.png"
+   sodipodi:docname="italic.svg"
+   inkscape:export-filename="/home/ekow/Projects/paanoo/assets/images/italic.png"
    inkscape:export-xdpi="15"
    inkscape:export-ydpi="15">
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5374821"
-     inkscape:cx="-61.991939"
-     inkscape:cy="49.564555"
+     inkscape:zoom="2.6770834"
+     inkscape:cx="-49.680932"
+     inkscape:cy="15.61034"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,10 +55,18 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-956.36218)">
-    <path
-       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 48 3 C 23.147186 3 3 23.147187 3 48 C 3 72.852813 23.147186 93 48 93 C 72.852814 93 93 72.852813 93 48 C 93 23.147187 72.852814 3 48 3 z M 29.96875 19.375 L 48 37.40625 L 66.03125 19.375 L 76.625 29.96875 L 58.59375 48 L 76.625 66.03125 L 66.03125 76.625 L 48 58.59375 L 29.96875 76.625 L 19.375 66.03125 L 37.40625 48 L 19.375 29.96875 L 29.96875 19.375 z "
-       transform="translate(0,956.36218)"
-       id="path2985" />
+    <text
+       xml:space="preserve"
+       style="font-size:134.12869263000001752px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="27.209866"
+       y="1049.3662"
+       id="text4469"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000039,0.99999612)"><tspan
+         sodipodi:role="line"
+         id="tspan4471"
+         x="27.209866"
+         y="1049.3662"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Italic">I</tspan></text>
   </g>
 </svg>
